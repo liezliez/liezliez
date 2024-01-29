@@ -1,6 +1,6 @@
 Intros  
 :trollface: 
-    Hello I am Liezarda, a passionate learner of Internet Of Things Concept and undergraduate student of Telkom University Bandung which hopefully will graduate in 2022.  
+    Hello I am Liezarda, a passionate learner of Data Science, Back-end and Internet Of Things Concept.  
     Im still learning about the magic world of web programming :globe_with_meridians: and endless journey into the holy place of Internet of Things Society :sparkler:  
 🔭 I am using GitHub as my portfolio, every project and code that i did hopefully will stand as a proof of my proficiency as Informatics Undergraduate Student and maybe can also be considered as contribution for the coding community.  
     i play guitar as my passtime between coding session 🎸
