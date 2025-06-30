@@ -44,10 +44,7 @@ I’m on a never-ending journey to master the magic of **web programming** :glob
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here) *(Add your profile)*
-- 📷 [Instagram](https://instagram.com/your-handle) *(Optional)*
-- ✉️ Email: your.email@example.com *(Optional)*
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/liezarda-febryan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ---
 
 <!---
