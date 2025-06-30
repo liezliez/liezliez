@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-:trollface: Hello! I’m **Liezarda**, an Informatics Undergraduate passionate about:
+:trollface: Hello! I’m **Liezarda**, an Software Enthusiast passionate about:
 
 - 🧪 **Data Science** – playing with data and uncovering patterns.
 - 🖥️ **Back-end Development** – crafting robust services and APIs.
