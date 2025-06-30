@@ -1,13 +1,55 @@
-Intros  
-:trollface: 
-    Hello I am Liezarda, a passionate learner of Data Science, Back-end and Internet Of Things Concept.  
-    Im still learning about the magic world of web programming :globe_with_meridians: and endless journey into the holy place of Internet of Things Society :sparkler:  
-🔭 I am using GitHub as my portfolio, every project and code that i did hopefully will stand as a proof of my proficiency as Informatics Undergraduate Student and maybe can also be considered as contribution for the coding community.  
-    i play guitar as my passtime between coding session 🎸
+<h1 align="center">Hi there! 👋 I'm Liezarda</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Informatics+Undergrad+💻;Data+Science+Enthusiast📊;IoT+Adventurer🌐;Backend+Developer+in+Progress🛠️;&center=true&width=500&height=45">
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liezliez&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liezliez&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+### 🧠 About Me
+
+:trollface: Hello! I’m **Liezarda**, an Informatics Undergraduate passionate about:
+
+- 🧪 **Data Science** – playing with data and uncovering patterns.
+- 🖥️ **Back-end Development** – crafting robust services and APIs.
+- 🌐 **Internet of Things** – exploring the bridge between hardware and the cloud.
+
+I’m on a never-ending journey to master the magic of **web programming** :globe_with_meridians: and become a disciple of the **Holy Internet of Things Society** :sparkles:.
+
+🎸 In my free time, I like to jam on my guitar — it's my favorite escape between coding marathons.
+
+---
+
+### 🚀 Tech Stack & Interests
+
+- **Languages**: Python 🐍, Java ☕, JavaScript ⚙️
+- **Frameworks/Tools**: Spring Boot, Flask, Node.js, Express
+- **Data Science**: Pandas, Scikit-learn, Matplotlib, Jupyter
+- **IoT**: ESP32, Arduino, MQTT, Blynk
+- **Other**: Git & GitHub, REST API, SQL & MongoDB
+
+---
+
+### 🧰 My GitHub Toolbox
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liezliez&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liezliez&layout=compact&theme=onedark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=liezliez&theme=onedark&hide_border=true"/>
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here) *(Add your profile)*
+- 📷 [Instagram](https://instagram.com/your-handle) *(Optional)*
+- ✉️ Email: your.email@example.com *(Optional)*
+
+---
+
 <!---
 liezliez/liezliez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
